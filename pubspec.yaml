@@ -1,0 +1,34 @@
+name: study_planner
+description: SSC and HSC study planner -- timer, routine, syllabus tracker, analytics.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  path_provider: ^2.1.1
+  provider: ^6.1.1
+  fl_chart: ^0.66.0
+  intl: ^0.19.0
+  wakelock_plus: ^1.2.5
+  shared_preferences: ^2.2.2
+  audioplayers: ^6.0.0
+  flutter_local_notifications: ^17.2.3
+  timezone: ^0.9.4
+  vibration: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sounds/

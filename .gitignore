@@ -1,0 +1,19 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+*.iml
+
+# Android
+android/local.properties
+android/.gradle/
+android/app/.cxx/
+android/key.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
