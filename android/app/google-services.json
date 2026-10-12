@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417439541413",
+    "project_id": "study-app-c2b0b",
+    "storage_bucket": "study-app-c2b0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417439541413:android:9e5d230b5fadce38c2854c",
+        "android_client_info": {
+          "package_name": "com.bayzid.hscstudyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417439541413-4drgv9bcls75kr19jhl6lf7lf9s2eknc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bayzid.hscstudyapp",
+            "certificate_hash": "c844a6812d9844a362557df6cd2b5591d71a2522"
+          }
+        },
+        {
+          "client_id": "417439541413-8hesavi3jm203cb4qd2ps9jv6o8095ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZtb0mqXRwwslljxLIg3HryR4TwTrj7KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417439541413-8hesavi3jm203cb4qd2ps9jv6o8095ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
